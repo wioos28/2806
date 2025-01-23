@@ -1,9 +1,9 @@
-local OrionLib = loadstring(game:HttpGet(('https://raw.githubusercontent.com/wioos28/h-hbjs/refs/heads/main/hạhah')))()
+local OrionLib = loadstring(game:HttpGet(('https://raw.githubusercontent.com/wioos28/h-hbjs/refs/heads/main/háº¡hah')))()
 
 local Window = OrionLib:MakeWindow({Name = "wioos v1.0", HidePremium = false, SaveConfig = true, ConfigFolder = "dxl_bf"})
 
 local Tab = Window:MakeTab({
-	Name = "các bản script",
+	Name = "Scripts Má»›i",
 	Icon = "rbxassetid://4483345998",
 	PremiumOnly = false
 })
@@ -15,12 +15,12 @@ local Tab2 = Window:MakeTab({
 })
 
 local Tab3 = Window:MakeTab({
-	Name = "tinh chỉnh ",
+	Name = "Mod Game",
 	Icon = "rbxassetid://4483345998",
 	PremiumOnly = false
 })
 local Tab4 = Window:MakeTab({
-	Name = "Script cũ",
+	Name = "Script CÅ©",
 	Icon = "rbxassetid://4483345998",
 	PremiumOnly = false
 })
