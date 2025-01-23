@@ -3,7 +3,7 @@ local OrionLib = loadstring(game:HttpGet(('https://raw.githubusercontent.com/wio
 local Window = OrionLib:MakeWindow({Name = "wioos v1.0", HidePremium = false, SaveConfig = true, ConfigFolder = "dxl_bf"})
 
 local Tab = Window:MakeTab({
-	Name = "Scripts Má»›i",
+	Name = "Scripts Mới ",
 	Icon = "rbxassetid://4483345998",
 	PremiumOnly = false
 })
@@ -20,7 +20,7 @@ local Tab3 = Window:MakeTab({
 	PremiumOnly = false
 })
 local Tab4 = Window:MakeTab({
-	Name = "Script CÅ©",
+	Name = "Script Cũ",
 	Icon = "rbxassetid://4483345998",
 	PremiumOnly = false
 })
